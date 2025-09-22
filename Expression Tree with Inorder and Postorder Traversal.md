@@ -1,7 +1,13 @@
-# Ex. No: 15C - Expression Tree with Inorder and Postorder Traversal
+# Ex. No: 15C - Left and right node with string values
 
 ## AIM:
-To write a Python program to build the given expression tree and print the inorder and postorder traversals.
+Write a python program to build a binary tree with a root,left and right node with string values
+
+1. Use appropriate python library to build a binary tree using Node function
+
+1. Get the node values (string) from the user and save it in a list
+
+2. Print the list of nodes of the binary tree
 
 ---
 
@@ -19,11 +25,20 @@ To write a Python program to build the given expression tree and print the inord
 ## PROGRAM:
 
 ```
-WRITE YOUR CODE
+from binarytree    import build
+l=[]
+for i in range(3):
+    l.append(input())
+root=build(l)
+print(f"List of nodes : {list(root)}")
 ```
 
 ## OUTPUT
 ```
+List of nodes : [Node(W), Node(I), Node(N)]
 ```
 
 ## RESULT
+
+
+<img width="988" height="186" alt="image" src="https://github.com/user-attachments/assets/8dd85248-ec7d-4a01-a820-e1552d9896ec" />
