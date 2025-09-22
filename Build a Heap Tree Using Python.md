@@ -19,11 +19,25 @@ To write a Python program to build a heap tree using appropriate Python package 
 ## PROGRAM:
 
 ```
-WRITE YOUR CODE
+from binarytree import heap,build,Node
+def heaptree(L):
+  x=L
+  t=build(x)
+  for i in t.values:
+    print(i,"-->",end='')
+  print("\nHeight : ",t.height)
+  print("Is max heap? : ",t.is_max_heap)
+  print("Is complete tree? : ",t.is_complete)
 ```
 
 ## OUTPUT
 ```
+89 -->81 -->76 -->22 -->14 -->9 -->54 -->11 -->
+Height :  3
+Is max heap? :  True
+Is complete tree? :  True
 ```
 
 ## RESULT
+
+<img width="1125" height="256" alt="image" src="https://github.com/user-attachments/assets/a7e81fe2-6108-4a93-8fc0-9cba1622fbe1" />
