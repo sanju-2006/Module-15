@@ -31,13 +31,10 @@ def heaptree(L):
 ```
 
 ## OUTPUT
-```
-89 -->81 -->76 -->22 -->14 -->9 -->54 -->11 -->
-Height :  3
-Is max heap? :  True
-Is complete tree? :  True
-```
+
+<img width="1125" height="256" alt="image" src="https://github.com/user-attachments/assets/a7e81fe2-6108-4a93-8fc0-9cba1622fbe1" />
+
 
 ## RESULT
 
-<img width="1125" height="256" alt="image" src="https://github.com/user-attachments/assets/a7e81fe2-6108-4a93-8fc0-9cba1622fbe1" />
+Python program to build a heap tree using appropriate Python package and function is successfully verified.
