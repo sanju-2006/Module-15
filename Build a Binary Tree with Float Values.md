@@ -33,14 +33,10 @@ def heaptree(L):
 ```
 
 ## OUTPUT
-```
-89 -->81 -->76 -->22 -->14 -->9 -->54 -->11 -->
-Height :  3
-Is max heap? :  True
-Is complete tree? :  True
-```
+<img width="1137" height="236" alt="image" src="https://github.com/user-attachments/assets/40ab8fad-0d31-411c-b41a-dcc164cf7be6" />
 
 ## RESULT
 
-<img width="1137" height="236" alt="image" src="https://github.com/user-attachments/assets/40ab8fad-0d31-411c-b41a-dcc164cf7be6" />
+Debug a Python function def heaptree(L): to build a tree and find out whether the tree is max heap and a complete tree, also print the height of the tree is successfully verified.
+
 
