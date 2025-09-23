@@ -54,14 +54,12 @@ print("\nIs this a Binary Search Tree? ",l.is_bst)
 ```
 
 ## OUTPUT
-```
-Postorder : [Node(1), Node(3), Node(6), Node(4), Node(9), Node(12), Node(10), Node(8)]
-Right Subtree :
-10 -->9 -->12 -->
-Is this a Binary Search Tree?  True
-```
+
+<img width="1120" height="550" alt="image" src="https://github.com/user-attachments/assets/059931d8-dbba-48f2-bebf-594103688e5d" />
+
 
 ## RESULT
 
+Python program to build a binary search tree using a built-in function is successfully verified.
 
-<img width="1120" height="550" alt="image" src="https://github.com/user-attachments/assets/059931d8-dbba-48f2-bebf-594103688e5d" />
+
