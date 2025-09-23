@@ -34,11 +34,10 @@ print(f"List of nodes : {list(root)}")
 ```
 
 ## OUTPUT
-```
-List of nodes : [Node(W), Node(I), Node(N)]
-```
+
+<img width="988" height="186" alt="image" src="https://github.com/user-attachments/assets/8dd85248-ec7d-4a01-a820-e1552d9896ec" />
+
 
 ## RESULT
 
-
-<img width="988" height="186" alt="image" src="https://github.com/user-attachments/assets/8dd85248-ec7d-4a01-a820-e1552d9896ec" />
+ python program to build a binary tree with a root,left and right node with string values is successfully verified
